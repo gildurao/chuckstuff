@@ -1,2 +1,2 @@
 # chuckstuff
-This is where I chuck my Chuck related stuff.
+This is where I chuck my ChucK related stuff.
